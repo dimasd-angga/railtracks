@@ -1,8 +1,6 @@
 .cursor
-.env
 .idea
 .tox
-.vscode
 __pycache__
 .prettierrc
 build
@@ -22,6 +20,7 @@ test-results.xml
 # virtual environments and other
 myenv
 venv
+temp_auto_push.bat
 .venv
 .ruff_cache
 
@@ -46,3 +45,7 @@ core-licenses-summary.md
 
 # Ignore Files copied during release workflow for PyPI packaging (for Flit)
 packages/railtracks/docs/
+.gitignore
+branch_structure.json
+config.bat
+node_modules
