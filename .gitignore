@@ -2,7 +2,6 @@
 .env
 .idea
 .tox
-.vscode
 __pycache__
 .prettierrc
 build
