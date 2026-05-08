@@ -1,8 +1,6 @@
 .cursor
-.env
 .idea
 .tox
-.vscode
 __pycache__
 .prettierrc
 build
@@ -46,3 +44,9 @@ core-licenses-summary.md
 
 # Ignore Files copied during release workflow for PyPI packaging (for Flit)
 packages/railtracks/docs/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
